@@ -1,5 +1,7 @@
 # IKVM.NET v8.1.5717.0 Binary
 
+This repo is suitable to download, unzip, and run. From within the folder, 'ikvm' and 'ikvmc' commands are ready to be used. If using IKVM to create a .dll file from Java, ensure these files are referenced in the .NET project.
+
 [IKVM.NET](http://www.ikvm.net/) is an implementation of Java for Mono and the Microsoft .NET Framework. 
 
 ### It includes the following components:
